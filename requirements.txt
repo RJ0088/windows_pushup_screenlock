@@ -1,7 +1,7 @@
 brotli==1.0.9
 clearml~=1.1.5rc6
 ConfigParser==5.2.0
-cryptography==36.0.1
+cryptography==41.0.3
 Cython==0.29.26
 depthai==2.14.0.0
 dl==0.1.0
